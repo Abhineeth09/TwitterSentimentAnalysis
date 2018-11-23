@@ -1,0 +1,11 @@
+Twitter Sentiment Analysis
+
+This project uses the NLP library TextBlob that analyses and provides sentiment polarity of tweets with a given keyword.
+
+NOTE: The following packages should be installed
+1.MatPlotlib
+2.Tkinter
+3.TextBlob
+4.Tweepy
+
+The tweets are fetched from a twitter API. GUI is created using Tkinter. A scatter plot is plotted using MatPlotlib and the resulting average polarity is shown.
