@@ -9,3 +9,6 @@ NOTE: The following packages should be installed
 4.Tweepy
 
 The tweets are fetched from a twitter API. GUI is created using Tkinter. A scatter plot is plotted using MatPlotlib and the resulting average polarity is shown.
+
+NOTE:
+You could get the keys for the twitter API using a Twitter Developer Account.

@@ -14,10 +14,10 @@ from textblob import TextBlob
 import matplotlib.pyplot as plt
 
 #Authentication
-consumer_key = 'EaAn0oxaXWeoShls5kKyr9zYX'
-consumer_secret = 'M7ORmV81XuFoII47yxGPvh9I9w645eX2JPfO4V0OUqNd5eprmf'
-access_token = '966168325-ltMUMyTU68OaiUf7EBF88Zbk3QcuCWSqfegc1JaH'
-access_token_secret = 'ey2INcSrbWWQ1fk6v4FES2P8kwJtrVT6aSHEUlNPslz6g'
+consumer_key = 'Get from Developer Account'
+consumer_secret = 'Get from Developer Account'
+access_token = 'Get from Developer Account'
+access_token_secret = 'Get from Developer Account'
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
